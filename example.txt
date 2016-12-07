@@ -1,7 +1,5 @@
 The quick brown fox jumps over the lazy dog.
 
-I think you all need coffee.
-
 apple
 banana
 chocolate
@@ -28,3 +26,5 @@ weather
 xylophones
 yellow
 zebra
+
+AaBbCcDdEeFfGGHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
